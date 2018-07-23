@@ -35,10 +35,11 @@ nav a {
 }
 
 
-}figcaption {
+figcaption {
   text-align: center;
   font-size: smaller;
   margin: auto
+}
 
  #details {
   display: block;
