@@ -43,16 +43,6 @@ a {
   font-size: smaller;
   margin: auto;
 }
- ul {
-  
-    margin: 0;
-    padding: 0;
-    background-color: #333;
-}
-
-  div {
-    float: left;
-  }
 
  #details {
   text-align: center;
