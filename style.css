@@ -25,6 +25,11 @@ nav a {
   background-color: grey
 }
 
+figcaption {
+  text-align: center;
+  font-size: smaller;
+  margin: auto
+}
 
 #featured-property {
   
@@ -32,13 +37,6 @@ nav a {
     text-align: center;
     margin: auto;
 
-}
-
-
-figcaption {
-  text-align: center;
-  font-size: smaller;
-  margin: auto
 }
 
  #details {
