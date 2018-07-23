@@ -41,8 +41,7 @@ figcaption {
 }
 
  #details {
-  display: inline-block;
-  padding: 10px;
+  display: block;
  
 
 }
