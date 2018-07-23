@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  width: auto;
+text-align: center;
+  padding: 10px;
+}
+
+
+img {
+  
+    display: block;
+    margin: auto;
+  
+}
+
+
+
+#featured-property {
+  
+    width: 800px;
+    text-align: center;
+}
+
+
+a {
+    display: inline;
+    padding: 10px 10px;
+    
+}
+
+
+.figcaption {
+  text-align: center;
+  font-size: smaller;
+  margin: 0;
+}
+ ul {
+  
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+  div {
+    float: left;
+  }
+
+ #details {
+  text-align: center;
+  display: block;
+  width: 25%;
+}
+
